@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Spacing -->
+    <dimen name="spacing_xsmall">2dp</dimen>
+    <dimen name="spacing_small">3dp</dimen>
+    <dimen name="spacing_medium">5dp</dimen>
+    <dimen name="spacing_xmedium">7dp</dimen>
+    <dimen name="spacing_middle">10dp</dimen>
+    <dimen name="spacing_large">15dp</dimen>
+    <dimen name="spacing_smlarge">18dp</dimen>
+    <dimen name="spacing_mlarge">20dp</dimen>
+    <dimen name="spacing_mxlarge">25dp</dimen>
+    <dimen name="spacing_xlarge">35dp</dimen>
+    <dimen name="spacing_xmlarge">40dp</dimen>
+    <dimen name="spacing_xxlarge">50dp</dimen>
+    <dimen name="spacing_xxxlarge">55dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="poster_movie_width">100dp</dimen>
+    <dimen name="poster_movie_height">130dp</dimen>
+    <dimen name="cardview_corner_radius">4dp</dimen>
+    <dimen name="cardview_card_elevation">2dp</dimen>
+    <dimen name="circle_image_size">35dp</dimen>
+    <dimen name="poster_movie_detail_width">125dp</dimen>
+    <dimen name="poster_movie_detail_height">195dp</dimen>
+    <dimen name="image_no_connection_width">220dp</dimen>
+    <dimen name="image_no_connection_height">220dp</dimen>
+    <dimen name="image_review_empty">100dp</dimen>
+</resources>
